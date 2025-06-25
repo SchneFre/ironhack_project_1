@@ -385,7 +385,8 @@ def start_game():
     room_objects = initialize_rooms(rooms=rooms_EG)
     start_room = room_objects.get("Bedroom")
     game_state = GameState(initialize_player(start_room=start_room), room_objects)
-
+    state.value = ""
+            
     welcome_msg = "Welcome to the haunted mansions.\nYour goal is to explore the mansion, find the key to the main door in the Hallway and escape\n"
     welcome_msg += "You can explore doors (\"d\") to other rooms and explore room (\"r\") inside the current room\n"
     welcome_msg += "----------------------------------------------------------------------------------------------------------------\n"
