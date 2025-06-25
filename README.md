@@ -1,6 +1,9 @@
 # ironhack_project_1
 The project involves developing a text-based adventure game where players navigate through a haunted mansion filled with puzzles, locked doors, and eerie characters. The objective is to find keys to unlock the main gate and escape before time runs out.
 
+# Slides:
+https://docs.google.com/presentation/d/14pYhL9t3dwPqaQMzY2GKmeN9aks9CYUqzcshDYOTLps/edit?usp=sharing
+
 # General info
 The escape_the_mansion.py file contains the source code of the command promt version of the game.
 The gradio files contain a version with a user interface.
@@ -25,3 +28,6 @@ The following floorplan is used in the game:
 # Requirements
 - the images have to be in the same folder as the gradio file (gr_escape_from_the_mansion.py)
 - gradio==5.34.2
+![image](https://github.com/user-attachments/assets/3c8172f4-6203-4d73-9f12-8e31d2f69dda)
+![image](https://github.com/user-attachments/assets/937edb2f-8f2c-4feb-b3f8-31666f6cb224)
+
