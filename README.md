@@ -18,3 +18,10 @@ The following floorplan is used in the game:
     - the user can either fight the zombie or run away
     - the fight can only be won, if the knifes from the kitchen are in the users inventory
     - the key to the main gate is hidden in the oven
+- the Gradio version includes a user-interface and images for each room
+# Useage
+- excecute the "escape_the_mansion.py" file (i.e. play button in visual Studio Code) or the gr_escape_from_the_mansion.py file.
+- the gr_escape_from_the_mansion.py will afterwards open a port and display it in the command promt that can be accessed in the browser
+# Requirements
+- the images have to be in the same folder as the gradio file (gr_escape_from_the_mansion.py)
+- gradio==5.34.2
