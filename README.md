@@ -25,3 +25,6 @@ The following floorplan is used in the game:
 # Requirements
 - the images have to be in the same folder as the gradio file (gr_escape_from_the_mansion.py)
 - gradio==5.34.2
+![image](https://github.com/user-attachments/assets/3c8172f4-6203-4d73-9f12-8e31d2f69dda)
+![image](https://github.com/user-attachments/assets/937edb2f-8f2c-4feb-b3f8-31666f6cb224)
+
